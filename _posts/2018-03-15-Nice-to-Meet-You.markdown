@@ -2,8 +2,8 @@
 layout:     post
 title:      "Nice to meet you"
 subtitle:   "Hi"
-date:       2018-01-30 12:00:00
-author:     "风语"
+date:       2018-03-15 22:30:00
+author:     "flowerwonder"
 header-img: "img/nicetomeetyou.jpg"
 catalog: true
 tags:
