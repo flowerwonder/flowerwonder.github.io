@@ -1,11 +1,11 @@
 # Site settings
-title: 风语
-SEOTitle: Windtalk | Windtalk的博客
+title: 陌上芳菲
+SEOTitle: 陌上芳菲的博客
 header-img: img/about-bg.jpg
 email:
-description: "Free like the wind one day"
-keyword: GiveMeaBlock | Windtalk"
-url: "https://givemeablock.github.io"              # your host, for absolute URL
+description: "在另一片时空和你相遇"
+keyword: FlowerWonder | 繁花"
+url: "https://flowerwonder.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
@@ -48,7 +48,7 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: Windtalk
+disqus_username: FlowerWonder
 
 # Netease setttings
 netease_comment: false
@@ -67,7 +67,7 @@ ga_domain:
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "时间带来一切的同时，带走一切"
+sidebar-about-description: "陌上有蔷薇，暮春自芬芳"
 sidebar-avatar: /img/avatar.png     # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
